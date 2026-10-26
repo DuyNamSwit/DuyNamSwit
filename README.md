@@ -1,4 +1,4 @@
-# Hi, I'm DuyNamSwit 👋
+# Hi, I'm Duy Nam
 
 I'm a Software Engineering student aspiring to become a Software Developer.
 
